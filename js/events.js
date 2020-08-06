@@ -11,6 +11,11 @@ function frameIt() {
   });
 }
 
+function pressIt() {
+  $('document').on('keydown', function() {
+    if (key.which ===)
+  })
+};
 
 $(document).ready(function(){
 
