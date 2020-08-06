@@ -5,6 +5,8 @@ function getIt() {
   })
 };
 
+function frameIt() {};
+
 
 $(document).ready(function(){
 
