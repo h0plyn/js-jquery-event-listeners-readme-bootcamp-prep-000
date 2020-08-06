@@ -5,7 +5,11 @@ function getIt() {
   })
 };
 
-function frameIt() {};
+function frameIt() {
+  $('document').on('load'. function() {
+    
+  })
+};
 
 
 $(document).ready(function(){
