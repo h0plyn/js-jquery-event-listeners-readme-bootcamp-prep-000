@@ -26,8 +26,5 @@ function submitIt() {
 };
 
 $(document).ready(function(){
-  getIt();
-  frameIt();
-  pressIt();
-  submitIt();
+
 });
