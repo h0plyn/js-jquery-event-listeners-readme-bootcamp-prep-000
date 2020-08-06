@@ -20,7 +20,7 @@ function pressIt() {
 };
 
 function submitIt() {
-  $('submit').on('')
+  $('input').on('')
 };
 
 $(document).ready(function(){
